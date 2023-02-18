@@ -18,11 +18,11 @@ __Plan-A Headstarter__ is a group scheduling web application with video calling 
 #### Created by: Omar Narine, Rafinal Haque, and Jake Enea
 
 ### Features:
-- [Register and login with email](https://github.com/jakeenea51/Plan-A-Headstarter#login-sign-out-and-sign-up)
-- [Calendar](https://github.com/jakeenea51/Plan-A-Headstarter#calendar) - schedule and delete events on the interactive group calendar
-- [Video Meet](https://github.com/jakeenea51/Plan-A-Headstarter#video-calling) - video call with your group
-- [About](https://github.com/jakeenea51/Plan-A-Headstarter#about) - learn more about the creators of Plan-A Headstarter
-- [Help](https://github.com/jakeenea51/Plan-A-Headstarter#help) - submit a help form to the support team
+- [Register and login with email](https://github.com/omar-narine/Plan-A-Headstarter#login-sign-out-and-sign-up)
+- [Calendar](https://github.com/omar-narine/Plan-A-Headstarter#calendar) - schedule and delete events on the interactive group calendar
+- [Video Meet](https://github.com/omar-narine/Plan-A-Headstarter#video-calling) - video call with your group
+- [About](https://github.com/omar-narine/Plan-A-Headstarter#about) - learn more about the creators of Plan-A Headstarter
+- [Help](https://github.com/omar-narine/Plan-A-Headstarter#help) - submit a help form to the support team
 
 
 ## Download
