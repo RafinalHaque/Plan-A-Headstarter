@@ -13,7 +13,7 @@
 
 ## Description
 
-__Plan-A Headstarter__ is a group scheduling web application with video calling and calendar sharing all in one place! Schedule events, join meetings, collaborate with your team, and plan ahead[starter] with this easy-to-use dashboard!
+__Plan-A Headstarter__ is a group scheduling web application with video calling and calendar sharing all in one place! Schedule events, join meetings, collaborate with your team, and plan a head[starter] with this easy-to-use dashboard!
 
 #### Created by: Omar Narine, Rafinal Haque, and Jake Enea
 
