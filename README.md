@@ -2,14 +2,14 @@
 ![logo](https://user-images.githubusercontent.com/91490989/219719756-3a0e7247-13c6-4b8c-8073-bd2e38ea3611.png)
 
 ## Contents
-- [Description](https://github.com/jakeenea51/Plan-A-Headstarter#description)
-- [Download](https://github.com/jakeenea51/Plan-A-Headstarter#download)
-- [Install requirements](https://github.com/jakeenea51/Plan-A-Headstarter#install-requirements)
-- [Connect to APIs](https://github.com/jakeenea51/Plan-A-Headstarter#connect-to-apis)
-- [Start server](https://github.com/jakeenea51/Plan-A-Headstarter#start-server)
-- [Host server to public URL using ngrok](https://github.com/jakeenea51/Plan-A-Headstarter#host-server-to-public-url-using-ngrok)
-- [Add users to groups](https://github.com/jakeenea51/Plan-A-Headstarter#add-users-to-groups)
-- [Demos](https://github.com/jakeenea51/Plan-A-Headstarter#demos)
+- [Description](https://github.com/omar-narine/Plan-A-Headstarter#description)
+- [Download](https://github.com/omar-narine/Plan-A-Headstarter#download)
+- [Install requirements](https://github.com/omar-narine/Plan-A-Headstarter#install-requirements)
+- [Connect to APIs](https://github.com/omar-narine/Plan-A-Headstarter#connect-to-apis)
+- [Start server](https://github.com/omar-narine/Plan-A-Headstarter#start-server)
+- [Host server to public URL using ngrok](https://github.com/omar-narine/Plan-A-Headstarter#host-server-to-public-url-using-ngrok)
+- [Add users to groups](https://github.com/omar-narine/Plan-A-Headstarter#add-users-to-groups)
+- [Demos](https://github.com/omar-narine/Plan-A-Headstarter#demos)
 
 ## Description
 
